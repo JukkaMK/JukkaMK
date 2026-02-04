@@ -1,6 +1,6 @@
 ## Hi, I'm Jukka 👋
 
-I'm a biotech engineer and MSc in genetics & molecular biology with a strong interest in
+I'm a biotech engineer and MSc in genetics & molecular biology with a strong interest in genetics,
 bioinformatics and biological data analysis.
 
 My background is in:
