@@ -1,7 +1,7 @@
 ## Hi, I'm Jukka 👋
 
 Linked https://www.linkedin.com/in/jukka-kiuru-141022171/
-email jukkamk@elisanet.fi
+email jukkamkiuru@gmail.com
 
 I'm a biotech engineer and MSc in genetics & molecular biology with a strong interest in genetics,
 bioinformatics and biological data analysis.
